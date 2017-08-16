@@ -12,8 +12,6 @@ Hi, I am a second year undergraduate student pursuing Bachelor of Technology in 
 
 [CV](https://drive.google.com/file/d/0Bw_Wc5HDlqHCcU1rdlNSdHFWMzQ/view?usp=sharing)
 
-<img src="Varun_IITP_CV1.pdf" alt="some text"  width="4200" height="4200">
-
 
 
 Thanks for reading!
